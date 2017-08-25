@@ -1,0 +1,9 @@
+### Module positions - created on Fri Aug 25 00:07:40 2017 ###
+### Printed by Pcbnew version kicad 4.0.7-e1-6374~58~ubuntu14.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val              Package                PosX       PosY       Rot  Side
+R1        RC0603FR-0710KL  RESC0603           137.0000  -121.5500    0.0000  bottom
+R2        RC0603FR-0710KL  RESC0603           150.8000   -92.4000  270.0000  bottom
+R3        RC0603FR-0710KL  RESC0603           150.8000  -107.7000  270.0000  bottom
+## End
