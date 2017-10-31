@@ -66,17 +66,6 @@ Text Label 6150 5450 0    39   ~ 0
 SWDCLK_BCM22
 Text Label 6150 5550 0    39   ~ 0
 SWDIO_BCM10
-$Comp
-L ART A1
-U 1 1 58E2B7DC
-P 5650 2275
-F 0 "A1" H 5650 2225 39  0000 C CNN
-F 1 "ART" H 5650 2325 39  0000 C CNN
-F 2 "pluggee:pluggeeLabsIcon-16X8" H 5650 2275 39  0001 C CNN
-F 3 "" H 5650 2275 39  0001 C CNN
-	1    5650 2275
-	1    0    0    -1  
-$EndComp
 Text Label 6350 5050 2    39   ~ 0
 SCK
 Text Label 6350 5150 2    39   ~ 0
